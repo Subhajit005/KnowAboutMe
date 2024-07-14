@@ -84,30 +84,32 @@ August 2017 - June 2020 (2.9 Years)
 ## Education
 ---
 
-### Degree
-##### `School • School Location`
+### Bachelor in Technology
+##### `NIT (Narula Institute of Technology, MAKAUT University) • Kolkata, India`
 
 <div align="right"> 
-0000 - 0000 (4 Years)
+2013 - 2017 (4 Years)
 <br><br>
 </div>
 
-Feel free to include any important certifications or other information about your time at this school.
+Studied computer science engineering.
 
 ## &nbsp;
 
-### Degree
-##### `School • School Location`
+### Higher Secondary
+##### `Mitra Institution Main (WBCHSE) • Kolkata, India`
 
 <div align="right"> 
-0000 - 0000 (4 Years)
+2011 - 2013 (2 Years)
 <br><br>
 </div>
 
-Feel free to include any important certifications or other information about your time at this school.
+Studied general science with maths , physics, chemestry and biology.
 
 ## &nbsp;
 
 ## Other
 ---
-An optional section you may title and craft however you'd like. Perhaps this area talks about the technical skills you taught yourself outside of work. And/or that you volunteer at your local food bank.
+### AZ-900 certified with fundamental knowledge of Azure.
+### IBM BigData Fundamental level 1
+### HackerRank Problem solving skills basic
