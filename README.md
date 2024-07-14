@@ -14,11 +14,7 @@
 ---
 
 <!--- Skills -->
-## Data Engineering
-## Data Pipeline Design
-## Agile Methodologies
-## Team Leadership and Development
-
+#Skills
 ---
 
 #### `PySpark` `GCP` `Dataproc` `Workflow` `BigQuery` `Storage` `Artifact Registry` `AWS` `Athena` `EMR cluster` `S3 buckets` `CodeCommit` `AbInitio` `SQL` `Teradata` `Postgres` `mariaDB` `mySQL` `Unix` `Python` `Jupyter Notebook` `Docker` `Git` `GitHub` `Terraform`
