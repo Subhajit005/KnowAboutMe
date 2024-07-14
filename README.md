@@ -3,18 +3,24 @@
 <img src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light" style="width:150px;" align="right" />
 
 <!--- Name -->
-# FirstName LastName
+# Subhajit Sarkar
 ---
 
 <!--- Contact information - likely not a phone number - this will be public on the web -->
-### you@invalidemail.com • www.yourwebsite.com
+### sarkar.subhajit78@gmail.com 
 
 <!--- Introduction / Summary -->
-### This can be your current job title or a summary of what you do and/or would like to do.
+### I am evolving data engineer, worked on multiple data warehousing project with varity of data migration experience.
 ---
 
 <!--- Skills -->
-## Skills
+## PySpark
+## GCP ( Dataproc, Workflow, BigQuery, Storage, Artifact Registry )
+## AWS ( Athena, EMR cluster, S3 buckets, CodeCommit )
+## AbInitio
+## SQL ( Teradata, postgres, mariaDB, mySQL )
+## Unix
+## Python
 ---
 
 #### `JavaScript` `HTML` `CSS`
