@@ -14,30 +14,28 @@
 ---
 
 <!--- Skills -->
-## PySpark
-## GCP ( Dataproc, Workflow, BigQuery, Storage, Artifact Registry )
-## AWS ( Athena, EMR cluster, S3 buckets, CodeCommit )
-## AbInitio
-## SQL ( Teradata, postgres, mariaDB, mySQL )
-## Unix
-## Python
+## Data Engineering
+## Data Pipeline Design
+## Agile Methodologies
+## Team Leadership and Development
+
 ---
 
-#### `JavaScript` `HTML` `CSS`
+#### `PySpark` `GCP` `Dataproc` `Workflow` `BigQuery` `Storage` `Artifact Registry` `AWS` `Athena` `EMR cluster` `S3 buckets` `CodeCommit` `AbInitio` `SQL` `Teradata` `Postgres` `mariaDB` `mySQL` `Unix` `Python` `Jupyter Notebook`
 
 <!--- Work Experience -->
 ## Work Experience
 ---
 
 ### Most Recent Job Title
-##### `Company Name • Company Location`
+##### `_VOIS • Pune,India`
 
 <div align="right"> 
-0000 - Present (5 Years)
+December 2021 - Present (2.8 Years)
 <br><br>
 </div>
 
-Summary of what you do/did.
+###### Worked as Data Engineer
 
 ## &nbsp;
 
