@@ -4,7 +4,6 @@
 
 <!--- Name -->
 # Subhajit Sarkar
----
 
 <!--- Contact information - likely not a phone number - this will be public on the web -->
 ### sarkar.subhajit78@gmail.com 
@@ -14,7 +13,7 @@
 ---
 
 <!--- Skills -->
-#Skills
+## Skills
 ---
 
 #### `PySpark` `GCP` `Dataproc` `Workflow` `BigQuery` `Storage` `Artifact Registry` `AWS` `Athena` `EMR cluster` `S3 buckets` `CodeCommit` `AbInitio` `SQL` `Teradata` `Postgres` `mariaDB` `mySQL` `Unix` `Python` `Jupyter Notebook` `Docker` `Git` `GitHub` `Terraform`
