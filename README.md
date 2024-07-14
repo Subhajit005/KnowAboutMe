@@ -1,6 +1,6 @@
 <!--- PLEASE READ: In case you are not familiar with Markdown, only replace actual verbiage (or URL). Never remove anything surrounding the main verbiage since that is either HTML or Markdown and is needed for the resume to display correctly. -->
 <!--- Replace the url below with a url pointing to your photo (round may be best) or delete the code below up to the name -->
-<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light'/>
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortCurly&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=BeardLight&facialHairColor=BrownDark&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light' style="width:150px;" align="right"/>
 
 <!--- Name -->
 # Subhajit Sarkar
