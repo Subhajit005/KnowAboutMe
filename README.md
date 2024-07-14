@@ -35,7 +35,14 @@ December 2021 - Present (2.8 Years)
 <br><br>
 </div>
 
-###### Worked as Data Engineer
+<div align='left'>
+<ul>
+        <li>Bread</li>
+        <li>Eggs</li>
+        <li>Milk</li>
+        <li>Coffee</li>
+</ul>
+</div>
 
 ## &nbsp;
 
