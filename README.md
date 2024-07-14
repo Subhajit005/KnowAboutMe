@@ -27,7 +27,7 @@
 ## Work Experience
 ---
 
-### Most Recent Job Title
+### Most Recent Deputy Manager
 ##### `_VOIS • Pune,India`
 
 <div align="right"> 
@@ -45,7 +45,7 @@ December 2021 - Present (2.8 Years)
 
 ## &nbsp;
 
-### Job Title
+### Associate Cosultant
 ##### `Capgemini • Pune,India`
 
 <div align="right"> 
@@ -61,6 +61,7 @@ June 2020 - December 2021 (1.5 Years)
 </ul>
 </div>
 
+### Programmer
 ##### `Bitwise • Pune,India`
 
 <div align="right"> 
