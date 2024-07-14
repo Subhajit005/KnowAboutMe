@@ -21,7 +21,7 @@
 
 ---
 
-#### `PySpark` `GCP` `Dataproc` `Workflow` `BigQuery` `Storage` `Artifact Registry` `AWS` `Athena` `EMR cluster` `S3 buckets` `CodeCommit` `AbInitio` `SQL` `Teradata` `Postgres` `mariaDB` `mySQL` `Unix` `Python` `Jupyter Notebook`
+#### `PySpark` `GCP` `Dataproc` `Workflow` `BigQuery` `Storage` `Artifact Registry` `AWS` `Athena` `EMR cluster` `S3 buckets` `CodeCommit` `AbInitio` `SQL` `Teradata` `Postgres` `mariaDB` `mySQL` `Unix` `Python` `Jupyter Notebook` `Docker` `Git` `GitHub` `Terraform`
 
 <!--- Work Experience -->
 ## Work Experience
@@ -37,24 +37,44 @@ December 2021 - Present (2.8 Years)
 
 <div align='left'>
 <ul>
-        <li>Bread</li>
-        <li>Eggs</li>
-        <li>Milk</li>
-        <li>Coffee</li>
+        <li>Working as Data Engineer, to migrate data from AWS to GCP to save the executional cost on CLoud. </li>
+        <li>Worked as Abinitio Developer, created pipelines to make the data as per OfCom complients.</li>
+        <li>Worked as Abinitio Developer, created multiple generic processes and process improvements of legacy system.</li>
 </ul>
 </div>
 
 ## &nbsp;
 
 ### Job Title
-##### `Company Name • Company Location`
+##### `Capgemini • Pune,India`
 
 <div align="right"> 
-0000 - 0000 (15 Years)
+June 2020 - December 2021 (1.5 Years)
 <br><br>
 </div>
 
-Summary of what you did.
+<div align='left'>
+<ul>
+        <li>Worked as Abinitio Developer, created pipelines with JWT tokens for the Video KYC.</li>
+        <li>Worked as Abinitio Developer, created major working framework for India.</li>
+        <li>Worked as Abinitio Developer, created automation on development enviornment to increase the developers productivity.</li>
+</ul>
+</div>
+
+##### `Bitwise • Pune,India`
+
+<div align="right"> 
+August 2017 - June 2020 (2.9 Years)
+<br><br>
+</div>
+
+<div align='left'>
+<ul>
+        <li>Worked as Abinitio Developer, created pipelines to maintain SCD type 1 and SCD type 2 in optimzed way.</li>
+        <li>Worked as Abinitio Developer, created automation for job monitoring and saved 3 hours of manual work per day.</li>
+        <li>Worked as Abinito Developer, created some on-demand/adhoc jobs for report creation.</li>
+</ul>
+</div>
 
 ## &nbsp;
 
