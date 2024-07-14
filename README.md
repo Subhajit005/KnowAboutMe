@@ -44,7 +44,7 @@ December 2021 - Present (2.8 Years)
 ##### `Capgemini • Pune,India`
 
 <div align="right"> 
-June 2020 - December 2021 (1.5 Years)
+July 2020 - December 2021 (1.6 Years)
 <br><br>
 </div>
 
@@ -60,7 +60,7 @@ June 2020 - December 2021 (1.5 Years)
 ##### `Bitwise • Pune,India`
 
 <div align="right"> 
-August 2017 - June 2020 (2.9 Years)
+August 2017 - July 2020 (3 Years)
 <br><br>
 </div>
 
