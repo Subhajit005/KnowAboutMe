@@ -32,7 +32,7 @@ December 2021 - Present (2.8 Years)
 
 <div align='left'>
 <ul>
-        <li>Working as Data Engineer, to migrate data from AWS to GCP to save the executional cost on CLoud. </li>
+        <li>Working as Data Engineer, to migrate data from AWS to GCP to save the executional cost on Cloud. </li>
         <li>Worked as Abinitio Developer, created pipelines to make the data as per OfCom complients.</li>
         <li>Worked as Abinitio Developer, created multiple generic processes and process improvements of legacy system.</li>
 </ul>
@@ -80,7 +80,7 @@ August 2017 - July 2020 (3 Years)
 ---
 
 ### Bachelor in Technology
-##### `NIT (Narula Institute of Technology, MAKAUT University) • Kolkata, India`
+##### `NIT • India`
 
 <div align="right"> 
 2013 - 2017 (4 Years)
